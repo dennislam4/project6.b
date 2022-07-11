@@ -1,4 +1,3 @@
-
 # Author: Dennis Lam
 # GitHub username: dennislam4
 # Date: 7/11/2022
